@@ -48,6 +48,9 @@ export const Navbar = () => {
             <Link to="/" className="block px-3 py-2 hover:bg-purple-600 rounded-md">Home</Link>
             <Link to="/services" className="block px-3 py-2 hover:bg-purple-600 rounded-md">Services</Link>
             <Link to="/store" className="block px-3 py-2 hover:bg-purple-600 rounded-md">Store</Link>
+            <Link to="/course" className="block px-3 py-2 hover:bg-purple-600 rounded-md">Course</Link>
+            <Link to="/vouches" className="block px-3 py-2 hover:bg-purple-600 rounded-md">vouches</Link>
+
             <a href="https://discord.gg/foranda" target="_blank" rel="noopener noreferrer" 
               className="block px-3 py-2 bg-purple-600 text-center rounded-md">
               Join Discord

@@ -21,7 +21,7 @@ export const Hero = () => {
             Join Our Discord
             <ArrowRight className="ml-2 h-5 w-5" />
           </a>
-          <a href="/store" className="inline-flex items-center justify-center px-8 py-3 text-lg font-medium rounded-lg bg-gray-800 hover:bg-gray-900 transition-colors">
+          <a href="https://joinforanda.com/store" className="inline-flex items-center justify-center px-8 py-3 text-lg font-medium rounded-lg bg-gray-800 hover:bg-gray-900 transition-colors">
             View Store
             <ArrowRight className="ml-2 h-5 w-5" />
           </a>
