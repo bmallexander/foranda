@@ -23,12 +23,14 @@ export const Courses = () => {
             <p className="text-gray-300 mb-4">
               Master the art of TikTok growth and content creation.
             </p>
-            <ul className="space-y-2 text-gray-400">
+            <ul className="space-y-2 text-gray-400 mb-6">
               <li>• In-depth strategies for TikTok growth</li>
               <li>• Tips for viral content</li>
               <li>• Engaging content templates</li>
             </ul>
-
+            <a href="https://whop.com/foranda/" className="inline-flex items-center px-6 py-2 text-sm font-medium rounded-lg bg-green-600 hover:bg-green-700 transition-colors">
+              View Course
+            </a>
           </div>
 
           {/* Course 2 (Middle) */}
@@ -38,15 +40,17 @@ export const Courses = () => {
               <h2 className="text-2xl font-semibold">Monetizing TikTok</h2>
             </div>
             <p className="text-gray-300 mb-4">
-            Learn how to monetize your TikTok account.
+              Learn how to monetize your TikTok account.
             </p>
-            <ul className="space-y-2 text-gray-400">
+            <ul className="space-y-2 text-gray-400 mb-6">
               <li>• Monetize maxing</li>
-              <li>• Grow  a brand</li>
+              <li>• Grow a brand</li>
               <li>• Print with TikTok Shop</li>
               <li>• Print with TikTok Crp</li>
             </ul>
-
+            <a href="https://whop.com/foranda/" className="inline-flex items-center px-6 py-2 text-sm font-medium rounded-lg bg-green-600 hover:bg-green-700 transition-colors">
+              View Course
+            </a>
           </div>
 
           {/* Course 3 (Right side) */}
@@ -56,15 +60,17 @@ export const Courses = () => {
               <h2 className="text-2xl font-semibold">Content Creation 101</h2>
             </div>
             <p className="text-gray-300 mb-4">
-            A full on guide on how to create produce and win.
+              A full guide on how to create, produce, and win.
             </p>
-            <ul className="space-y-2 text-gray-400">
+            <ul className="space-y-2 text-gray-400 mb-6">
               <li>• Video editing essentials</li>
               <li>• Copywriting essentials</li>
               <li>• Business essentials</li>
-              <li>• tools and AI</li>
+              <li>• Tools and AI</li>
             </ul>
-
+            <a href="https://whop.com/foranda/" className="inline-flex items-center px-6 py-2 text-sm font-medium rounded-lg bg-green-600 hover:bg-green-700 transition-colors">
+              View Course
+            </a>
           </div>
         </div>
 
