@@ -15,7 +15,7 @@ function App() {
       <div className="min-h-screen bg-black text-white">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Hero />} />
+          <Route path="/" element={<Store />} />
           <Route path="/store" element={<Store />} />
           <Route path="/services" element={<Services />} />
           <Route path="/vouches" element={<Vouches />} />

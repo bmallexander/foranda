@@ -19,7 +19,6 @@ export const Navbar = () => {
           
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-8">
-              <Link to="/" className="hover:text-purple-400 transition-colors">Home</Link>
               <Link to="/store" className="hover:text-purple-400 transition-colors">Store</Link>
               <Link to="/course" className="hover:text-purple-400 transition-colors">Course</Link>
               <Link to="/services" className="hover:text-purple-400 transition-colors">Services</Link>
